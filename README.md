@@ -1,6 +1,6 @@
 <img src="images/memelord.jpg">
 
-## THIS README IS STILL UNDER CONSTRUCTION 🚧 DUE TO SEMESTER EXAMS
+## THIS README IS STILL 🚧 UNDER CONSTRUCTION 🚧 DUE TO SEMESTER EXAMS
 This is my submission to this <a href="https://www.kaggle.com/c/detect-pneumonia-fall-2020">Kaggle competition</a>. After **85 heroic submissions** full of trial and error, this solution achieved the highest score (86.1%) 
 
 There are 5 pretrained models, 1 Xception and 4 EfficientNets. Each model did its part in the ensemble, on which the final submission was based on.
